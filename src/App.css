@@ -1,0 +1,24 @@
+#cont{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#logo{
+  padding: 32px;
+  background: gray;
+  color: black;
+  font-size: 3em;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#logo b{
+  margin-left: 20px;
+  font-size: 0.5em;
+}
+#fileicons{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
